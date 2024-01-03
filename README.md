@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a seasoned professional with extensive expertise across multiple domains. My proficiency spans Infrastructure as Code (IaC), where I excel in architecting scalable infrastructures through code, optimizing resource management for enhanced efficiency and scalability. I possess comprehensive experience in navigating and harnessing the potential of diverse cloud environments, including AWS, GCP, and Azure, adeptly architecting, deploying, and optimizing solutions for flexibility and resilience. Additionally, I demonstrate adeptness in Kubernetes, leveraging its capabilities for streamlined container orchestration, enabling smooth deployment, scaling, and management of applications. My commitment to DevOps principles ensures seamless collaboration, workflow automation, and expedited software development and deployment processes. With a strong background in database management, configuration practices, and a dedication to Site Reliability Engineering (SRE), I bring a holistic approach to ensuring system reliability, performance, and continuous improvement.
+### Expertise Summary:
+
+- **Infrastructure as Code (IaC):** Proficient in architecting scalable infrastructures through code, optimizing efficiency and scalability.
+- **Multi-Cloud Architect:** Extensive experience in AWS, GCP, and Azure, adeptly architecting and optimizing solutions for flexibility and resilience.
+- **Kubernetes & DevOps Enthusiast:** Skilled in Kubernetes for streamlined container orchestration and committed to DevOps principles for collaboration, automation, and accelerated software development. Background in database management, configuration practices, and dedication to Site Reliability Engineering (SRE) for system reliability and continuous improvement.
